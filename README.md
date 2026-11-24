@@ -13,7 +13,7 @@ Ministry of Consumer Affairs, Food & Public Distribution
 Agriculture, FoodTech & Rural Development
 
 
-##1. Problem Description
+##1. Problem Description-
 Agriculture is one of the most important sectors in India, providing employment and food resources to millions of people. However, farmers often face several challenges in selling their agricultural products at fair prices. The traditional agricultural supply chain involves multiple intermediaries, including wholesalers, agents, distributors and retailers. These intermediaries increase the final cost of products while reducing the amount of money received by farmers.
 
 Small-scale farmers and Farmer Producer Organizations (FPOs) often struggle to reach customers directly because of limited market access, lack of transportation facilities and insufficient information about market demand. As a result, farmers may be forced to sell their products at lower prices, even when the demand is high.
@@ -37,7 +37,7 @@ Lower prices for consumers: Consumers can purchase fresh agricultural products a
 
 Reduced supply chain inefficiencies: Improved logistics, demand forecasting and transportation planning can reduce delays, unnecessary costs and food wastage.
 
-##2. Proposed Solution
+##2. Proposed Solution-
 The proposed solution is an AI-powered digital agricultural marketplace designed to improve the connection between farmers, consumers and bulk buyers. The platform provides a common digital space where farmers can list their agricultural products, buyers can explore available products, and transportation services can support the delivery process.
 
 The main objective of this solution is to simplify agricultural trading and create a transparent marketplace that benefits both farmers and consumers.
@@ -54,7 +54,7 @@ The platform also provides order tracking and notification facilities. Buyers ca
 
 Overall, the proposed solution aims to create a reliable and user-friendly digital marketplace that makes agricultural trading easier, faster and more beneficial for everyone involved.
 
-##3. Technical Approach
+##3. Technical Approach-
 The project follows a systematic development approach to create a user-friendly and efficient agricultural marketplace. The system consists of different modules that work together to support product management, buyer registration, order processing, AI-based predictions and logistics management.
 
 The platform can be developed as a web application or mobile application so that farmers and buyers can access its services easily.
@@ -89,7 +89,7 @@ The system can use location information, delivery destinations and route conditi
 
 This module manages order placement, order confirmation, payment records and delivery updates. It helps maintain transparency between farmers and buyers.
 
-##4. Feasibility and Viability
+##4. Feasibility and Viability-
 The proposed AI-powered agricultural marketplace is feasible because it uses commonly available digital technologies and can be developed in different stages. The platform can initially focus on basic marketplace features and gradually introduce advanced AI-based services.
 
 Technical Feasibility
@@ -132,7 +132,7 @@ Introduce user ratings and feedback facilities.
 
 Improve AI predictions using updated market and sales information.
 
-##5. Impact and Benefits
+##5. Impact and Benefits-
 The proposed digital marketplace can create positive changes in the agricultural supply chain by connecting farmers and buyers through a common platform.
 
 Economic Impact
